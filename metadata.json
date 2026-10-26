@@ -1,0 +1,6 @@
+{
+  "name": "StorySpark - Magic Read-Aloud Storybook & Quest",
+  "description": "An interactive storytelling app for kids that reads stories aloud with word-by-word highlighting, generates new illustrations for every page, creates AI bedtime adventures, and includes the Story Quest game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
